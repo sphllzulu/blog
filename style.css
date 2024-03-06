@@ -1,0 +1,25 @@
+.c-item{
+    height:400px;
+    
+}
+.c-img{
+    height:100%;
+    object-fit:cover;
+    filter:brightness(0.6);
+}
+/*.overview{
+    height:00px;
+    
+}*/
+.author{
+    object-fit: cover;
+    border-radius: 50%;
+    width:100px;
+}
+#author{
+    height:300px;
+    width:100%;
+}
+#author img{
+    height:300px;
+}
